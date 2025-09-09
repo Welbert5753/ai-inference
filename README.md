@@ -268,6 +268,6 @@ following steps:
 This project is licensed under the terms of the MIT open source license. Please
 refer to [MIT](./LICENSE.txt) for the full terms.
 
-## Contributions
+## Contributions.md
 
 Contributions are welcome! See the [Contributor's Guide](CONTRIBUTING.md).
